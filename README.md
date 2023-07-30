@@ -13,7 +13,7 @@ This program implements a vehicle control system with the following features:
 ## Sensors Menu (when the engine is running)
 
 - Stop engine
-- Set traffic light color (G, Y, R) 
+- Set traffic light color (G, O, R) 
 - Set room temperature
 - Display system state
 
